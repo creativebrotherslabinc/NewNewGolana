@@ -1,0 +1,20 @@
+{
+  "name": "Go LANA — Free Online Tools",
+  "short_name": "Go LANA",
+  "description": "Free online tools, calculators, converters, games, and printables that run entirely in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities", "education"],
+  "lang": "en",
+  "scope": "/"
+}

@@ -1,0 +1,335 @@
+Golana.online AI Map
+
+PDF & Document Tools:
+- https://golana.online/tool/pdf-merger
+- https://golana.online/tool/pdf-splitter
+- https://golana.online/tool/pdf-compressor
+- https://golana.online/tool/pdf-to-docx
+- https://golana.online/tool/docx-to-pdf
+- https://golana.online/tool/txt-to-pdf
+- https://golana.online/tool/images-to-pdf
+- https://golana.online/tool/pdf-to-images
+- https://golana.online/tool/pdf-to-excel
+- https://golana.online/tool/pdf-extract-pages
+- https://golana.online/tool/pdf-rotator
+- https://golana.online/tool/pdf-redactor
+- https://golana.online/tool/pdf-metadata-cleaner
+- https://golana.online/tool/pdf-smart-splitter
+- https://golana.online/tool/pdf-form-filler
+- https://golana.online/tool/pdf-to-pptx
+- https://golana.online/tool/pptx-to-pdf
+- https://golana.online/tool/excel-to-pdf
+- https://golana.online/tool/pdf-to-jpg
+- https://golana.online/tool/jpg-to-pdf
+- https://golana.online/tool/html-to-pdf
+- https://golana.online/tool/pdf-to-pdfa
+- https://golana.online/tool/pdf-to-markdown
+- https://golana.online/tool/pdf-editor
+- https://golana.online/tool/pdf-watermark
+- https://golana.online/tool/pdf-page-numbers
+- https://golana.online/tool/pdf-crop
+- https://golana.online/tool/pdf-organize
+- https://golana.online/tool/pdf-page-size-normalizer
+- https://golana.online/tool/pdf-margin-remover
+- https://golana.online/tool/pdf-table-extractor
+- https://golana.online/tool/pdf-ocr-extractor
+- https://golana.online/tool/pdf-signature-verifier
+- https://golana.online/tool/pdf-compare
+- https://golana.online/tool/pdf-repair
+- https://golana.online/tool/camera-scanner-pdf
+
+Media Tools:
+- https://golana.online/tool/image-compressor
+- https://golana.online/tool/image-converter
+- https://golana.online/tool/image-resizer
+- https://golana.online/tool/image-to-base64
+- https://golana.online/tool/color-palette
+- https://golana.online/tool/gradient-generator
+- https://golana.online/tool/font-previewer
+- https://golana.online/tool/favicon-generator
+- https://golana.online/tool/gif-maker
+- https://golana.online/tool/meme-generator
+- https://golana.online/tool/color-picker
+- https://golana.online/tool/video-compressor
+- https://golana.online/tool/video-to-audio
+- https://golana.online/tool/audio-cutter
+- https://golana.online/tool/background-remover
+- https://golana.online/tool/color-changer
+- https://golana.online/tool/image-sharpener
+- https://golana.online/tool/image-blur
+- https://golana.online/tool/image-cropper
+- https://golana.online/tool/image-bg-blur
+- https://golana.online/tool/image-upscaler
+- https://golana.online/tool/image-denoiser
+- https://golana.online/tool/video-frame-extractor
+- https://golana.online/tool/video-stabilizer
+- https://golana.online/tool/audio-noise-reduction
+- https://golana.online/tool/image-cartoonizer
+- https://golana.online/tool/audio-equalizer
+- https://golana.online/tool/video-speed-changer
+
+Calculators & Finance Tools:
+- https://golana.online/tool/mortgage
+- https://golana.online/tool/loan
+- https://golana.online/tool/interest
+- https://golana.online/tool/savings
+- https://golana.online/tool/currency
+- https://golana.online/tool/salary-tax
+- https://golana.online/tool/roi
+- https://golana.online/tool/percentage
+- https://golana.online/tool/inflation-calculator
+- https://golana.online/tool/retirement-calculator
+- https://golana.online/tool/credit-card-payoff
+- https://golana.online/tool/debt-snowball
+- https://golana.online/tool/compound-interest
+- https://golana.online/tool/cost-of-living
+- https://golana.online/tool/salary-inflation
+- https://golana.online/tool/hourly-salary
+- https://golana.online/tool/car-loan-affordability
+- https://golana.online/tool/gpa-calculator
+
+Everyday Utilities:
+- https://golana.online/tool/qr-generator
+- https://golana.online/tool/password-generator
+- https://golana.online/tool/unit-converter
+- https://golana.online/tool/age-calculator
+- https://golana.online/tool/date-difference
+- https://golana.online/tool/bmi-calculator
+- https://golana.online/tool/random-number
+- https://golana.online/tool/timer-pomodoro
+- https://golana.online/tool/cooking-converter
+- https://golana.online/tool/text-pattern-extractor
+- https://golana.online/tool/text-summarizer-rule-based
+- https://golana.online/tool/text-similarity-checker
+- https://golana.online/tool/image-exif-viewer
+- https://golana.online/tool/barcode-generator
+
+AI Mini Tools:
+- https://golana.online/tool/summarizer
+- https://golana.online/tool/paraphraser
+- https://golana.online/tool/name-generator
+- https://golana.online/tool/resume-bullets
+- https://golana.online/tool/joke-generator
+- https://golana.online/tool/story-generator
+- https://golana.online/tool/love-calculator
+- https://golana.online/tool/horoscope-generator
+- https://golana.online/tool/fortune-cookie
+- https://golana.online/tool/would-you-rather
+- https://golana.online/tool/truth-or-dare
+- https://golana.online/tool/business-name-generator
+- https://golana.online/tool/tagline-generator
+
+Developer Tools:
+- https://golana.online/tool/json-formatter
+- https://golana.online/tool/base64
+- https://golana.online/tool/code-minifier
+- https://golana.online/tool/regex-tester
+- https://golana.online/tool/diff-checker
+- https://golana.online/tool/uuid-generator
+- https://golana.online/tool/markdown-editor
+- https://golana.online/tool/code-beautifier
+- https://golana.online/tool/jwt-decoder
+- https://golana.online/tool/hash-generator
+- https://golana.online/tool/cron-expression-generator
+- https://golana.online/tool/csv-json-converter
+- https://golana.online/tool/yaml-json-converter
+- https://golana.online/tool/csv-viewer
+- https://golana.online/tool/ip-lookup
+- https://golana.online/tool/visitor-counter
+
+Time & Planning Tools:
+- https://golana.online/tool/world-clock
+- https://golana.online/tool/stopwatch
+- https://golana.online/tool/countdown
+- https://golana.online/tool/cooking-timer
+- https://golana.online/tool/calendar-widget
+- https://golana.online/tool/todo-list
+- https://golana.online/tool/notes-app
+- https://golana.online/tool/habit-tracker
+- https://golana.online/tool/session-timer
+
+Games:
+- https://golana.online/tool/tic-tac-toe
+- https://golana.online/tool/number-guess
+- https://golana.online/tool/2048
+- https://golana.online/tool/snake
+- https://golana.online/tool/memory-match
+- https://golana.online/tool/flappy-bird
+- https://golana.online/tool/tetris
+- https://golana.online/tool/minesweeper
+- https://golana.online/tool/sudoku
+- https://golana.online/tool/hangman
+- https://golana.online/tool/rock-paper-scissors
+- https://golana.online/tool/typing-speed
+- https://golana.online/tool/pong
+- https://golana.online/tool/breakout
+- https://golana.online/tool/connect-four
+- https://golana.online/tool/checkers
+- https://golana.online/tool/sliding-puzzle
+- https://golana.online/tool/whack-a-mole
+- https://golana.online/tool/simon-says
+- https://golana.online/tool/color-matching
+- https://golana.online/tool/trivia-quiz
+- https://golana.online/tool/card-matching
+- https://golana.online/tool/platformer
+- https://golana.online/tool/puzzle-adventure
+- https://golana.online/tool/deadword
+- https://golana.online/tool/brick-breaker
+- https://golana.online/tool/aim-trainer
+- https://golana.online/tool/reaction-time
+- https://golana.online/tool/dungeon-puzzle
+- https://golana.online/tool/hexa-merge-kingdom
+- https://golana.online/tool/word-scramble
+- https://golana.online/tool/mini-sudoku
+- https://golana.online/tool/memory-cards
+- https://golana.online/tool/smart-reaction-time
+- https://golana.online/tool/mini-maze
+- https://golana.online/tool/word-ladder
+- https://golana.online/tool/logic-puzzle
+- https://golana.online/tool/color-match
+- https://golana.online/tool/color-circuit
+- https://golana.online/tool/golana-guess-game
+
+WhatsApp Business Tools:
+- https://golana.online/tool/wa-message-template
+- https://golana.online/tool/wa-quick-reply
+- https://golana.online/tool/wa-link-generator
+- https://golana.online/tool/wa-qr-code
+- https://golana.online/tool/wa-broadcast
+- https://golana.online/tool/wa-promo
+- https://golana.online/tool/wa-greeting
+- https://golana.online/tool/wa-follow-up
+- https://golana.online/tool/wa-appointment
+- https://golana.online/tool/wa-order-form
+- https://golana.online/tool/wa-product-catalog
+- https://golana.online/tool/wa-customer-card
+- https://golana.online/tool/wa-survey
+- https://golana.online/tool/wa-feedback
+
+HR & Employee Tools:
+- https://golana.online/tool/shift-schedule
+- https://golana.online/tool/timesheet
+- https://golana.online/tool/work-hours
+- https://golana.online/tool/break-timer
+- https://golana.online/tool/attendance-tracker
+- https://golana.online/tool/onboarding-checklist
+
+Marketing & Web Tools:
+- https://golana.online/tool/meta-tag-generator
+- https://golana.online/tool/keyword-density-checker
+- https://golana.online/tool/utm-builder
+- https://golana.online/tool/popup-builder
+- https://golana.online/tool/pricing-table-generator
+- https://golana.online/tool/faq-accordion-builder
+- https://golana.online/tool/email-signature-generator
+- https://golana.online/tool/url-shortener
+- https://golana.online/tool/logo-maker
+- https://golana.online/tool/social-post-template-maker
+
+Education & Learning Tools:
+- https://golana.online/tool/flashcard-creator
+- https://golana.online/tool/study-planner
+- https://golana.online/tool/reading-timer
+- https://golana.online/tool/math-worksheet-generator
+- https://golana.online/tool/vocabulary-trainer
+- https://golana.online/tool/typing-practice
+- https://golana.online/tool/exam-countdown
+- https://golana.online/tool/essay-structure-analyzer
+- https://golana.online/tool/citation-formatter
+- https://golana.online/tool/reading-level-checker
+- https://golana.online/tool/flashcard-auto-generator
+- https://golana.online/tool/equation-solver
+- https://golana.online/tool/chemical-balancer
+
+Health & Wellness Tools:
+- https://golana.online/tool/water-intake-tracker
+- https://golana.online/tool/step-counter
+- https://golana.online/tool/workout-timer
+- https://golana.online/tool/stretch-reminder
+- https://golana.online/tool/meal-planner
+- https://golana.online/tool/calorie-counter
+
+Content Creation Tools:
+- https://golana.online/tool/headline-generator
+- https://golana.online/tool/emoji-decorator
+- https://golana.online/tool/text-divider-generator
+- https://golana.online/tool/social-bio-generator
+- https://golana.online/tool/hashtag-generator
+- https://golana.online/tool/list-formatter
+- https://golana.online/tool/bullet-point-expander
+
+File & Text Tools:
+- https://golana.online/tool/text-cleaner
+- https://golana.online/tool/text-case
+- https://golana.online/tool/word-counter
+- https://golana.online/tool/text-encryption
+- https://golana.online/tool/html-escape-unescape
+- https://golana.online/tool/url-encoder-decoder
+- https://golana.online/tool/slug-generator
+- https://golana.online/tool/text-sorter
+- https://golana.online/tool/duplicate-line-remover
+- https://golana.online/tool/text-case-converter
+- https://golana.online/tool/text-statistics
+- https://golana.online/tool/text-splitter
+- https://golana.online/tool/text-joiner
+- https://golana.online/tool/text-replacer
+- https://golana.online/tool/text-encrypt
+- https://golana.online/tool/text-obfuscator
+- https://golana.online/tool/rot13
+- https://golana.online/tool/text-reverse
+- https://golana.online/tool/line-numbering
+- https://golana.online/tool/text-deduper-pro
+- https://golana.online/tool/text-randomizer
+- https://golana.online/tool/csv-chart-builder
+- https://golana.online/tool/grammar-checker
+- https://golana.online/tool/plagiarism-checker
+
+Business Operations Tools:
+- https://golana.online/tool/inventory-manager
+- https://golana.online/tool/simple-crm
+- https://golana.online/tool/client-follow-up-tracker
+- https://golana.online/tool/order-status-tracker
+- https://golana.online/tool/business-expense-tracker
+- https://golana.online/tool/profit-margin-calculator
+- https://golana.online/tool/employee-shift-scheduler
+- https://golana.online/tool/business-kpi-dashboard
+- https://golana.online/tool/break-even-calculator
+- https://golana.online/tool/supplier-contact-manager
+- https://golana.online/tool/invoice-generator
+- https://golana.online/tool/invoice-validator
+- https://golana.online/tool/inventory-forecast
+- https://golana.online/tool/profit-projection-tool
+- https://golana.online/tool/business-kpi-visualizer
+
+Kids & Family Tools:
+- https://golana.online/tool/chore-chart-generator
+- https://golana.online/tool/reward-points-tracker
+- https://golana.online/tool/bedtime-routine-checklist
+- https://golana.online/tool/homework-planner
+- https://golana.online/tool/kids-drawing-pad
+- https://golana.online/tool/name-coloring-sheet-generator
+- https://golana.online/tool/reward-chart-generator
+- https://golana.online/tool/homework-timer
+- https://golana.online/tool/kids-routine-planner
+- https://golana.online/tool/kids-drawing-filter
+- https://golana.online/tool/daily-homework
+
+Apps:
+- https://golana.online/tool/findingmyfood
+- https://golana.online/tool/resume-genie
+- https://golana.online/tool/resume-formatter
+- https://golana.online/tool/wa-client-manager
+- https://golana.online/tool/office-suite-local
+
+Crypto Tools:
+- https://golana.online/tool/crypto-portfolio
+- https://golana.online/tool/crypto-watchlist
+- https://golana.online/tool/crypto-dca
+- https://golana.online/tool/crypto-staking
+- https://golana.online/tool/crypto-mining
+- https://golana.online/tool/crypto-profit
+- https://golana.online/tool/crypto-converter
+- https://golana.online/tool/crypto-live
+- https://golana.online/tool/crypto-chart
+- https://golana.online/tool/crypto-inflation
+

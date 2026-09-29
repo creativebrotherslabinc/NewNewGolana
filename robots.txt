@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://golana.online/sitemap.xml
